@@ -1,0 +1,92 @@
+.ds-block {
+    display: block
+}
+
+.ds-box {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -o-box;
+    display: box
+}
+
+.flex-1 {
+    -webkit-box-flex: 1;
+    -moz-box-flex: 1;
+    -ms-flex: 1;
+    -o-box-flex: 1;
+    box-flex: 1;
+    overflow: auto
+}
+
+.orient-h {
+    -webkit-box-orient: horizontal;
+    -moz-box-orient: horizontal;
+    -ms-flex-direction: row;
+    -o-box-orient: horizontal;
+    box-orient: horizontal
+}
+
+.orient-v {
+    -webkit-box-orient: vertical;
+    -moz-box-orient: vertical;
+    -ms-flex-direction: column;
+    -o-box-orient: vertical;
+    box-orient: vertical
+}
+
+.pack-center {
+    -webkit-box-pack: center;
+    -moz-box-pack: center;
+    -ms-flex-pack: center;
+    -o-box-pack: center;
+    box-pack: center
+}
+
+.pack-justify {
+    -webkit-box-pack: justify;
+    -moz-box-pack: justify;
+    -ms-flex-pack: justify;
+    -o-box-pack: justify;
+    box-pack: justify
+}
+
+.pack-start {
+    -webkit-box-pack: start;
+    -moz-box-pack: start;
+    -ms-flex-pack: start;
+    -o-box-pack: start;
+    box-pack: start
+}
+
+.pack-end {
+    -webkit-box-pack: end;
+    -moz-box-pack: end;
+    -ms-flex-pack: end;
+    -o-box-pack: end;
+    box-pack: end
+}
+
+.align-start {
+    -webkit-box-align: start;
+    -moz-box-align: start;
+    -ms-flex-align: start;
+    -o-box-align: start;
+    box-align: start
+}
+
+.align-end {
+    -webkit-box-align: end;
+    -moz-box-align: end;
+    -ms-flex-align: end;
+    -o-box-align: end;
+    box-align: end
+}
+
+.align-center {
+    -webkit-box-align: center;
+    -moz-box-align: center;
+    -ms-flex-align: center;
+    -o-box-align: center;
+    box-align: center
+}

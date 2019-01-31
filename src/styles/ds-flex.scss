@@ -1,0 +1,103 @@
+.fn-hide{
+    display: none !important;
+}
+.ds-block{
+  display: block;
+}
+/**伸缩盒2012年版本**/
+.ds-flex{
+    display: flex;
+}
+/**子元素充满**/
+.flex-1{
+    flex:1;
+}
+.flex-2{
+    flex:2;
+}
+/**排版方向**/
+.flex-h{
+    flex-direction:row;
+}
+.flex-v{
+    flex-direction:column;
+}
+/**主轴调整 开头 结尾 居中 均分 包括边缘均分**/
+.pack-start{
+    justify-content:flex-start;
+}
+.pack-end{
+    justify-content:flex-end;
+}
+.pack-center{
+    justify-content:center;
+}
+.pack-between{
+    justify-content:space-between;
+}
+.pack-around{
+    justify-content:space-around;
+}
+/**侧轴调整 开头 结尾 居中 基线 拉伸**/
+.align-start{
+    align-items:flex-start;
+}
+.align-end{
+    align-items:flex-end;
+}
+.align-center{
+    align-items:center;
+}
+.align-baseline{
+    align-items:baseline;
+}
+.align-stretch{
+    align-items:stretch;
+}
+/**以上为主要属性，适用于大部分情景**/
+
+/**多侧轴调整 顺序多行 倒序多行 默认单行**/
+.wrap-wp{
+    flex-wrap:wrap;
+}
+.wrap-re{
+    flex-wrap:wrap-reverse;
+}
+.wrap-no{
+    flex-wrap:nowrap;
+}
+/**多行分布 拉伸均分 不拉伸开头 不拉伸结尾 不拉伸居中 拉伸均分 拉伸包括边缘均分**/
+.wrap-pack-stretch{
+    align-content:stretch;
+}
+.wrap-pack-start{
+    align-content:flex-start;
+}
+.wrap-pack-end{
+    align-content:flex-end;
+}
+.wrap-pack-center{
+    align-content:center;
+}
+.wrap-pack-between{
+    align-content:space-between;
+}
+.wrap-pack-around{
+    align-content:space-around;
+}
+/**子元素调整 拉伸 开头 结尾 居中 基线**/
+.align-self-stretch{
+    align-self:stretch;
+}
+.align-self-start{
+    align-self:flex-start;
+}
+.align-self-end{
+    align-self:flex-end;
+}
+.align-self-center{
+    align-self:center;
+}
+.align-self-baseline{
+    align-self:baseline;
+}
