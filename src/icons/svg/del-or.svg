@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 12">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #b9bbbe;
+      }
+    </style>
+  </defs>
+  <g id="Del" transform="translate(-1145 -360.195)">
+    <path id="Shape" class="cls-1" d="M12,1.209,10.791,0,6,4.791,1.209,0,0,1.209,4.791,6,0,10.791,1.209,12,6,7.209,10.791,12,12,10.791,7.209,6Z" transform="translate(1145 360.195)"/>
+  </g>
+</svg>

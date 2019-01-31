@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #becad6;
+      }
+
+      .cls-2 {
+        stroke: none;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="符号_92_18" data-name="符号 92 – 18" transform="translate(-367 -283)">
+    <g id="椭圆_5" data-name="椭圆 5" class="cls-1" transform="translate(367 283)">
+      <circle class="cls-2" cx="8" cy="8" r="8"/>
+      <circle class="cls-3" cx="8" cy="8" r="7.5"/>
+    </g>
+  </g>
+</svg>

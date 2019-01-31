@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.005 24.005">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.3;
+      }
+
+      .cls-2 {
+        fill: #ec1b23;
+      }
+
+      .cls-3 {
+        fill: #ffca02;
+      }
+    </style>
+  </defs>
+  <g id="china-2" class="cls-1">
+    <circle id="椭圆_18" data-name="椭圆 18" class="cls-2" cx="12.002" cy="12.002" r="12.002" transform="translate(0 0)"/>
+    <g id="组_390" data-name="组 390" transform="translate(1.389 3.364)">
+      <path id="路径_465" data-name="路径 465" class="cls-3" d="M9.259,29.6l.829,2.633,2.755-.024L10.6,33.817l.878,2.608L9.259,34.792,7.065,36.425l.853-2.608L5.7,32.208l2.73.024Z" transform="translate(-5.7 -25.749)"/>
+      <path id="路径_466" data-name="路径 466" class="cls-3" d="M29.711,13.8l.341,1.1,1.146-.024-.926.683.366,1.1-.926-.683-.926.683.366-1.1-.951-.683,1.17.024Z" transform="translate(-22.715 -13.8)"/>
+      <path id="路径_467" data-name="路径 467" class="cls-3" d="M40.711,27.7l.341,1.1H42.2l-.926.658.366,1.1-.926-.683-.926.683.366-1.1L39.2,28.8h1.17Z" transform="translate(-31.034 -24.312)"/>
+      <path id="路径_468" data-name="路径 468" class="cls-3" d="M41.211,45.8l.341,1.1H42.7l-.926.658.366,1.1-.926-.683-.926.683.366-1.1L39.7,46.9h1.146Z" transform="translate(-31.412 -38)"/>
+      <path id="路径_469" data-name="路径 469" class="cls-3" d="M31.211,61l.341,1.1H32.7l-.926.658.366,1.1-.926-.683-.926.683.341-1.1L29.7,62.1h1.146Z" transform="translate(-23.85 -49.494)"/>
+    </g>
+  </g>
+</svg>

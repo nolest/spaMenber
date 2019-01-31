@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 14">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #9fcc43;
+      }
+    </style>
+  </defs>
+  <path id="Clock" class="cls-1" d="M307,444a7,7,0,1,0,7,7A7,7,0,0,0,307,444Zm2.164,9.106a.583.583,0,0,1-.822,0l-1.925-1.925v-3.739a.583.583,0,0,1,1.167,0V450.7l1.581,1.581A.583.583,0,0,1,309.164,453.106Z" transform="translate(-300 -444)"/>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 34 34">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f9f9f9;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #dcdfe6;
+      }
+
+      .cls-4, .cls-6 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke: #dcdfe6;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <ellipse id="椭圆_20" data-name="椭圆 20" class="cls-1" cx="17" cy="17" rx="17" ry="17" transform="translate(2478 180)"/>
+    </clipPath>
+  </defs>
+  <g id="user-1" transform="translate(-2478 -180)">
+    <g id="蒙版组_11" data-name="蒙版组 11" class="cls-2">
+      <path id="Account" class="cls-3" d="M207,660.3v-4.579a3.624,3.624,0,0,1,2.1-3.107h0a24.124,24.124,0,0,1,17.986,0h0a3.624,3.624,0,0,1,2.108,3.107V660.3a3.7,3.7,0,0,1-3.7,3.7H210.7A3.7,3.7,0,0,1,207,660.3ZM218.095,636a6.164,6.164,0,1,0,6.164,6.164A6.164,6.164,0,0,0,218.095,636Z" transform="translate(2277 -449)"/>
+    </g>
+    <g id="椭圆_21" data-name="椭圆 21" class="cls-4" transform="translate(2478 180)">
+      <circle class="cls-5" cx="17" cy="17" r="17"/>
+      <circle class="cls-6" cx="17" cy="17" r="16.5"/>
+    </g>
+  </g>
+</svg>
