@@ -1,4 +1,4 @@
-# spaMenber project via vue-admin-template
+# spaMenber project
 ##请先配置cnpm
 ##环境安装
 ```
